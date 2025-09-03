@@ -1,0 +1,9 @@
+[submodule "docidv-sdk"]
+	path = docidv-sdk
+	url = https://github.com/idnow/docidv-sdk-ios.git
+[submodule "eid-sdk"]
+	path = eid-sdk
+	url = https://github.com/idnow/eid-sdk-ios
+[submodule "sunflower-sdk"]
+	path = sunflower-sdk
+	url = https://github.com/idnow/sunflower-sdk-ios
