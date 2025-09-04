@@ -2,7 +2,7 @@
 
 This repository hosts all iOS SDKs developed and maintained by IDnow under a single umbrella.
 
-Each SDK is provided as a Git submodule to allow flexible integration into your iOS projects via Swift Package Manager, CocoaPods, or direct source checkout. The umbrella repository lets you pin and update SDK versions centrally across projects.
+Each SDK is provided as a Git submodule to allow flexible integration into your iOS projects via Swift Package Manager or direct source checkout. The umbrella repository lets you pin and update SDK versions centrally across projects.
 
 **Available SDKs in this repository**
 
